@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard
-Crafting the Ideal Workforce: HR Analytics Dashboard*
+Crafting the Ideal Workforce: HR Analytics Dashboard
 
 *Project Overview*  
 Ever pondered over the key drivers of employee performance, retention, or engagement? Want to uncover insights that could shape the future of your workforce? This HR Analytics Dashboard does just that! Leveraging data analytics through Python, Pandas, and Power BI, it reveals trends and insights that might even surprise seasoned HR professionals. 📊✨
